@@ -34,12 +34,12 @@ function f1() {
 
 ES6 允许块级作用域的任意嵌套。
 
-``` js
+<!-- ``` js
 {{{{
   {let insane = 'Hello World'}
   console.log(insane); // 报错
 }}}};
-```
+``` -->
 
 ## 4. 顶层对象的属性
 
